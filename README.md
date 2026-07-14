@@ -1,1 +1,37 @@
-<
+<table width="100%" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px;">
+<tr>
+<td colspan="2" style="background-color:#161b22; padding:8px; border-radius:10px 10px 0 0;">
+<span style="color:#ff5f56;">●</span>
+<span style="color:#ffbd2e;">●</span>
+<span style="color:#27c93f;">●</span>
+<span style="color:#8b949e; font-family:monospace; margin-left:10px;">ronak@github: ~</span>
+</td>
+</tr>
+<tr>
+<td width="40%" valign="top" style="padding:15px;">
+
+<pre style="font-size:3px; line-height:3px; color:#39ff14; background:#0d1117;">
+(your ascii art here)
+</pre>
+
+</td>
+<td width="60%" valign="top" style="padding:15px; font-family:monospace; color:#39ff14;">
+
+$ whoami<br>
+ronak<br><br>
+
+$ cat about.txt<br>
+🎓 B.Tech AI & Material Sciences @ BIT Sindri (2029)<br>
+🚀 LFX Mentee @ CNCF KubeEdge-Ianvs<br>
+🎤 Speaker @ KubeCon India<br>
+🏆 Shubhra Kar LiFT Scholar<br>
+🔧 Top-10 Contributor @ Google DeepMind Torax<br>
+📜 Pursuing CKA Certification<br><br>
+
+$ cat currently.txt<br>
+🔭 Building NanoCoder Realtime Voice Mode<br>
+🌱 Contributing to LangChain-Google, sktime<br>
+
+</td>
+</tr>
+</table>
