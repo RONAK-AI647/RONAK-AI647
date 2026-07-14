@@ -1,16 +1,27 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="35%" valign="top">
 
-<!--
-**RONAK-AI647/RONAK-AI647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
 
-Here are some ideas to get you started:
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td width="65%" valign="top">
+
+### Hi, I'm Ronak 👋
+
+🎓 B.Tech AI & Material Sciences @ BIT Sindri (2029)  
+🚀 LFX Mentee @ CNCF KubeEdge-Ianvs  
+🎤 Speaker @ KubeCon India  
+🏆 Shubhra Kar LiFT Scholar  
+🔧 Top-10 Contributor @ Google DeepMind Torax  
+📜 Pursuing CKA Certification  
+
+- 🔭 Currently building **NanoCoder Realtime Voice Mode**
+- 🌱 Contributing to LangChain-Google, sktime
+- 💬 Ask me about Edge AI, Kubernetes, ML pipelines
+
+</td>
+</tr>
+</table>
